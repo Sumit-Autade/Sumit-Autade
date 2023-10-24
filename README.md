@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2021/03/hhfhwf.gif)
+
 <h1 align="center">Hi 👋, I'm Sumit Autade</h1>
 <h3 align="center">Computer Engineering Student | Passionate about Data Science and Data Analytics</h3>
 
