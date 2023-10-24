@@ -1,7 +1,6 @@
 [![MasterHead](https://blog.imarticus.org/wp-content/uploads/2021/03/hhfhwf.gif)
 <h1 align="center">Hi 👋, I'm Sumit Autade</h1>
 <h3 align="center">Computer Engineering Student | Passionate about Data Science and Data Analytics</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-autade&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-autade" /> </p>
 
@@ -13,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit autade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit autade" height="30" width="40" /></a>
-<a href="https://kaggle.com/smit-autade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smit-autade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-autade-b6ab22271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-autade-b6ab22271/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/smitautade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/smitautade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
