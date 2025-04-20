@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Autade</h1>
-<h3 align="center">Computer Engineering Student | Passionate about Data Science and Data Analytics</h3>
+<h3 align="center">Computer Engineering Student | Passionate about Data Science and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-autade&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-autade" /> </p>
 
-- 🌱 I’m currently learning **Advance Machine learning topic with mathematics behind it.**
+- 🌱 I’m currently learning **About MLOP's**
 
-- 💬 Ask me about **machine learning, MySQL database, data analysis, Data science, statistics ,**
+- 💬 Ask me about **machine learning, Deep learning, AI, RAG,  MySQL database, data analysis, Data science, statistics**
 
 - 📫 How to reach me **sumitautade100@gmail.com**
 
